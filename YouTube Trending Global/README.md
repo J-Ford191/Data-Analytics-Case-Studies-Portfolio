@@ -72,5 +72,5 @@ What features and behaviors drive videos to trend across different countries and
 
 ---
 
-_This case study is part of a growing [Data Analytics Case Studies Portfolio](https://github.com/junelleford/data-analytics-case-studies) by Junelle James Ford._
+_This case study is part of a growing [Data Analytics Case Studies Portfolio]([https://github.com/junelleford/data-analytics-case-studies](https://github.com/J-Ford191/Data-Analytics-Case-Studies-Portfolio/blob/main/README.md)) by Junelle James Ford._
 
