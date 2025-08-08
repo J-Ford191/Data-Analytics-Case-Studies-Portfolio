@@ -1,4 +1,4 @@
-# Data Analytics Case Studies Portfolio
+# Data Analytics Case Study Portfolio
 
 Welcome! I'm Junelle James Ford, an aspiring data analyst passionate about solving real-world business problems with data. This repository contains my industry-relevant data analytics case studies, each showcasing my ability to:
 - Frame business questions
