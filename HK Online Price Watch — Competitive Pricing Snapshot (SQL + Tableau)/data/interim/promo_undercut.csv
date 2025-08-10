@@ -1,0 +1,25 @@
+category_1,retailer,promo_undercut_pct,promo_items,nonpromo_undercut_pct,nonpromo_items
+Candies / Biscuits / Snacks,AEON,50.0,2,76.36,33
+Candies / Biscuits / Snacks,DCHFOOD,,0,100.0,2
+Candies / Biscuits / Snacks,JASONS,27.4,118,20.88,80
+Candies / Biscuits / Snacks,MANNINGS,0.0,2,78.46,13
+Candies / Biscuits / Snacks,PARKNSHOP,47.26,73,42.19,70
+Candies / Biscuits / Snacks,WATSONS,,0,0.0,1
+Candies / Biscuits / Snacks,WELLCOME,27.21,117,21.14,79
+Drinks,AEON,22.22,18,45.92,51
+Drinks,DCHFOOD,,0,50.0,6
+Drinks,JASONS,29.29,70,26.88,102
+Drinks,PARKNSHOP,31.04,69,45.89,77
+Drinks,WATSONS,0.0,1,0.0,5
+Drinks,WELLCOME,29.29,70,26.88,102
+Noodles / Cooking needs / Processed food (cold),AEON,58.33,26,64.56,103
+Noodles / Cooking needs / Processed food (cold),DCHFOOD,,0,60.0,20
+Noodles / Cooking needs / Processed food (cold),JASONS,22.09,109,29.61,186
+Noodles / Cooking needs / Processed food (cold),PARKNSHOP,16.57,87,32.58,143
+Noodles / Cooking needs / Processed food (cold),WELLCOME,22.09,109,29.61,186
+Personal care,AEON,26.67,2,46.22,30
+Personal care,JASONS,8.62,46,23.31,147
+Personal care,MANNINGS,35.33,25,38.07,169
+Personal care,PARKNSHOP,24.63,54,29.25,167
+Personal care,WATSONS,30.92,51,26.81,173
+Personal care,WELLCOME,8.44,47,23.24,146

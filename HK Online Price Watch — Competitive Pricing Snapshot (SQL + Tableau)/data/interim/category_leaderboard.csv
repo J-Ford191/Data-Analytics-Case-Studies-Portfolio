@@ -1,0 +1,25 @@
+category_1,retailer,lowest_share_pct,n_items,avg_price_index
+Candies / Biscuits / Snacks,DCHFOOD,100.0,2,88.19
+Candies / Biscuits / Snacks,AEON,74.86,35,85.82
+Candies / Biscuits / Snacks,MANNINGS,68.0,15,86.35
+Candies / Biscuits / Snacks,PARKNSHOP,44.78,143,99.52
+Candies / Biscuits / Snacks,JASONS,24.76,198,102.0
+Candies / Biscuits / Snacks,WELLCOME,24.76,196,102.01
+Candies / Biscuits / Snacks,WATSONS,0.0,1,103.07
+Drinks,DCHFOOD,50.0,6,98.77
+Drinks,AEON,39.73,69,100.2
+Drinks,PARKNSHOP,38.87,146,101.11
+Drinks,JASONS,27.86,172,99.47
+Drinks,WELLCOME,27.86,172,99.47
+Drinks,WATSONS,0.0,6,102.12
+Noodles / Cooking needs / Processed food (cold),AEON,63.31,129,94.93
+Noodles / Cooking needs / Processed food (cold),DCHFOOD,60.0,20,96.6
+Noodles / Cooking needs / Processed food (cold),JASONS,26.84,295,100.55
+Noodles / Cooking needs / Processed food (cold),WELLCOME,26.84,295,100.55
+Noodles / Cooking needs / Processed food (cold),PARKNSHOP,26.52,230,101.73
+Personal care,AEON,45.0,32,94.7
+Personal care,MANNINGS,37.71,194,99.52
+Personal care,PARKNSHOP,28.12,221,101.04
+Personal care,WATSONS,27.75,224,100.85
+Personal care,JASONS,19.81,193,99.6
+Personal care,WELLCOME,19.64,193,99.59
