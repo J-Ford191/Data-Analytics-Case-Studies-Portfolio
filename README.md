@@ -21,11 +21,6 @@ Welcome! I'm **Junelle James Ford**. I build business-facing, portfolio-ready an
 2. Check **/sql** (for SQL views/queries) and **/data** (for raw/interim extracts).  
 3. Review **/charts** PNGs and **/docs** for the slide deck.
 
-**Quick links (HK Price Watch):**
-- Project: [`/hk-online-pricewatch-sql-tableau`](./hk-online-pricewatch-sql-tableau/)
-- Deck (PDF): [`/hk-online-pricewatch-sql-tableau/docs/HK_Online_Price_Watch_Competitive_Pricing_Snapshot_v2.pdf`](./hk-online-pricewatch-sql-tableau/docs/HK_Online_Price_Watch_Competitive_Pricing_Snapshot_v2.pdf)
-- Deck (PPTX): [`/hk-online-pricewatch-sql-tableau/docs/HK_Online_Price_Watch_Competitive_Pricing_Snapshot_v2.pptx`](./hk-online-pricewatch-sql-tableau/docs/HK_Online_Price_Watch_Competitive_Pricing_Snapshot_v2.pptx)
-
 ---
 
 ## 🧰 Tooling & Style
