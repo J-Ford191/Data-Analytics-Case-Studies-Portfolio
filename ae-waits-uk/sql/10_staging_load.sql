@@ -1,0 +1,4 @@
+-- 10_staging_load.sql
+-- Example DuckDB COPY commands (adjust filenames/columns to match NHSE releases).
+-- COPY stg_monthly_ae FROM 'data/processed/monthly_ae.csv' (AUTO_DETECT TRUE);
+-- COPY stg_ecds_monthly FROM 'data/processed/ecds_monthly.csv' (AUTO_DETECT TRUE);

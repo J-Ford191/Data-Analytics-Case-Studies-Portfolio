@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+duckdb>=1.0
+openpyxl>=3.1
+pyarrow>=16.0
