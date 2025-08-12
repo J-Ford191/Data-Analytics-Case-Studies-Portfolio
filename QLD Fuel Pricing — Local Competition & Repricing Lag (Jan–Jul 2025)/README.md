@@ -1,12 +1,10 @@
-![Dashboard Overview](../outputs/charts/QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025).png)
-
 # QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025)
 
 **Niche:** Pricing & Revenue Analytics · **Skills:** SQL (SQLite), Tableau
 
 **Live dashboard:** [https://public.tableau.com/views/QLDFuelPricingLocalCompetitionRepricingLagJanJul2025/QLDFuelPricingLocalCompetitionRepricingLagJanJul2025?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/QLDFuelPricingLocalCompetitionRepricingLagJanJul2025/QLDFuelPricingLocalCompetitionRepricingLagJanJul2025?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-**Mini deck (PDF):** [docs/QLD_Fuel_Pricing_Mini_Deck.pptx](docs/QLD_Fuel_Pricing_Mini_Deck.pdf)
+**Mini deck (PDF):** [docs/QLD_Fuel_Pricing_Mini_Deck.pdf](docs/QLD_Fuel_Pricing_Mini_Deck.pdf)
 
 This case study quantifies two pricing levers for Queensland fuel retailers:
 - **Local Competitive Position** — share of time a site is the **local** lowest-priced retailer (duration-weighted).
@@ -89,11 +87,6 @@ Run `sql/controls_log.sql` to validate the build:
 2) **Lowest-Price Share** — Sorted bars by site.  
 3) **Repricing Lag** — Bars of **median lag (minutes)** by site.  
 **Filters:** Fuel Type (single), Site Suburb (multi), Site Brand (multi). WS1/WS2 act as **filters** on the dashboard.
-
-Screenshots:
-![WS1](../outputs/charts/ws1_scatter.png.png)
-![WS2](../outputs/charts/ws2_lowest_share.png.png)
-![WS3](../outputs/charts/ws3_repricing_lag.png.png)
 
 ---
 
