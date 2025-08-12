@@ -1,4 +1,4 @@
-![Dashboard Overview](outputs/charts/QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025) (1).png)
+![Dashboard Overview](QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025)/outputs/charts/QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025) (1).png)
 
 # QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025)
 
