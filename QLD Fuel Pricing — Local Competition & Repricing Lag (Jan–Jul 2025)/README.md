@@ -1,4 +1,4 @@
-![Dashboard Overview](outputs/charts/QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025).png)
+![Dashboard Overview](../outputs/charts/QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025).png)
 
 # QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025)
 
@@ -91,9 +91,9 @@ Run `sql/controls_log.sql` to validate the build:
 **Filters:** Fuel Type (single), Site Suburb (multi), Site Brand (multi). WS1/WS2 act as **filters** on the dashboard.
 
 Screenshots:
-![WS1](../outputs/charts/ws1_scatter.png)
-![WS2](../outputs/charts/ws2_lowest_share.png)
-![WS3](../outputs/charts/ws3_repricing_lag.png)
+![WS1](../outputs/charts/ws1_scatter.png.png)
+![WS2](../outputs/charts/ws2_lowest_share.png.png)
+![WS3](../outputs/charts/ws3_repricing_lag.png.png)
 
 ---
 
