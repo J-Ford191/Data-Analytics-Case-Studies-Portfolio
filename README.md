@@ -8,6 +8,7 @@ Welcome! I'm **Junelle James Ford**. I build business-facing, portfolio-ready an
 
 | Project | Skills | Dataset & Freshness | Highlights |
 |---|---|---|---|
+| **QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025)** (`/qld-fuel-pricing`) | SQL (SQLite), Tableau | QLD Govt Fuel Price Reporting — changes-only events (2025 Jan–Jul) | Local competitive position (avg cpl vs time as local lowest), duration-weighted lowest-price share, and site-level median repricing lag. Reproducible SQL + Tableau. [Live dashboard](https://public.tableau.com/views/QLDFuelPricingLocalCompetitionRepricingLagJanJul2025/QLDFuelPricingLocalCompetitionRepricingLagJanJul2025) |
 | **HK Online Price Watch — Competitive Pricing Snapshot** (`/hk-online-pricewatch-sql-tableau`) | SQL (SQLite), Tableau | Hong Kong Consumer Council “Online Price Watch” — **daily snapshot** feed (2025) | Competitive benchmarking across retailers by category. Price Index (100 = market avg), lowest-price share (tie-weighted), and promo vs. non-promo undercutting. Includes reproducible SQL views, 12 PNG charts, and stakeholder-ready deck (PDF/PPTX). |
 | **YouTube Trending Global** (`/youtube-trending-global`) | EDA + Visualization | Global YouTube trending records | What factors drive videos to trend across countries and categories? Explores engagement patterns and cross-market differences. |
 
