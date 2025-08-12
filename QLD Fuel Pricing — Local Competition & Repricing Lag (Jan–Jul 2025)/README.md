@@ -1,3 +1,5 @@
+![Dashboard Overview](https://github.com/J-Ford191/Data-Analytics-Case-Studies-Portfolio/blob/main/QLD%20Fuel%20Pricing%20%E2%80%94%20Local%20Competition%20%26%20Repricing%20Lag%20(Jan%E2%80%93Jul%202025)/outputs/charts/QLD%20Fuel%20Pricing%20%E2%80%94%20Local%20Competition%20%26%20Repricing%20Lag%20(Jan%E2%80%93Jul%202025).png)
+
 # QLD Fuel Pricing — Local Competition & Repricing Lag (Jan–Jul 2025)
 
 **Niche:** Pricing & Revenue Analytics · **Skills:** SQL (SQLite), Tableau
@@ -87,6 +89,12 @@ Run `sql/controls_log.sql` to validate the build:
 2) **Lowest-Price Share** — Sorted bars by site.  
 3) **Repricing Lag** — Bars of **median lag (minutes)** by site.  
 **Filters:** Fuel Type (single), Site Suburb (multi), Site Brand (multi). WS1/WS2 act as **filters** on the dashboard.
+
+Screenshots:
+
+![WS1](https://github.com/J-Ford191/Data-Analytics-Case-Studies-Portfolio/blob/main/QLD%20Fuel%20Pricing%20%E2%80%94%20Local%20Competition%20%26%20Repricing%20Lag%20(Jan%E2%80%93Jul%202025)/outputs/charts/ws1_scatter.png.png)
+![WS2](https://github.com/J-Ford191/Data-Analytics-Case-Studies-Portfolio/blob/main/QLD%20Fuel%20Pricing%20%E2%80%94%20Local%20Competition%20%26%20Repricing%20Lag%20(Jan%E2%80%93Jul%202025)/outputs/charts/ws2_lowest_share.png.png)
+![WS3](https://github.com/J-Ford191/Data-Analytics-Case-Studies-Portfolio/blob/main/QLD%20Fuel%20Pricing%20%E2%80%94%20Local%20Competition%20%26%20Repricing%20Lag%20(Jan%E2%80%93Jul%202025)/outputs/charts/ws3_repricing_lag.png.png)
 
 ---
 
