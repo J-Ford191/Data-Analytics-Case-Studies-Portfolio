@@ -1,0 +1,2 @@
+OPTIONAL: Store a small .twb (not .twbx) here OR keep empty and link to Tableau Public in README.
+Your packaged .twbx is 187MB, which is over GitHub's 100MB limit — do NOT commit that file.

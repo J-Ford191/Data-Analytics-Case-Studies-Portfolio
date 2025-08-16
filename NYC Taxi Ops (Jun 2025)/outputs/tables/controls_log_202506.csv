@@ -1,0 +1,7 @@
+check,rule,count_failed,sample_rows,action,severity
+neg_total_amount,total_amount >= 0,74257,"80,224,264",filter or fix,Fail
+neg_fare_amount,fare_amount >= 0,275565,"80,224,264",filter or fix,Fail
+neg_trip_distance,trip_distance >= 0,0,,filter or fix,Fail
+bad_passenger_count,1 <= passenger_count <= 6,1235748,"2,5,6",filter or fix,Warn
+bad_duration,1 <= trip_minutes <= 360,117855,"4,25,26",filter or fix,Warn
+dup_on_key,unique Vendor+pickup+dropoff+PU+DO,66338,"81,265,332",filter or fix,Info
